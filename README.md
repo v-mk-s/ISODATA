@@ -1,9 +1,9 @@
 # ISODATA
-Comparative analysis of the efficiency of ISODATA method and neural networks methods
+Comparative analysis of the efficiency of ISODATA method and neural networks methods.
 
-Available only in Russian
+## Description
+Implementing the ISODATA algorithm using the Numpy library.
 
-code https://github.com/v-mk-s/ISODATA/blob/master/main_ISODATA.ipynb
+[Jupyter code](https://github.com/v-mk-s/ISODATA/blob/master/main_ISODATA.ipynb)
 
-presentation
-https://github.com/v-mk-s/ISODATA/blob/master/presentation_ISODATA.pdf
+[photo1](https://github.com/v-mk-s/ISODATA/blob/master/graphic1.jpg)
